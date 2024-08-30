@@ -32,7 +32,7 @@ params = {
     "client_key": "tenor_web",
     "locale": "en",
     "anon_id": "AAYg45bu7SgHxOKP1BxLkw",
-    "eventname": "y",  #other event names are - giflistitem_result_tap,page_start,page_done e.t.c 
+    "eventname": "itemview_impression",  #other event names are - giflistitem_result_tap,page_start,page_done e.t.c 
     "component": "web_mobile",
     "current_uri": "https://tenor.com/view/persist-ventures-persist-ventures-venkatesh-gif-8449110717979128293",
     "data": '{"rid":"8449110717979128293","apirefid":"fa6fb6bb-b9fe-4183-af50-02f0c4676206","isUserLoggedIn":""}'
